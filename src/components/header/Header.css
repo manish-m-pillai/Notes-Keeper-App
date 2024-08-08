@@ -1,0 +1,13 @@
+header{
+    background-color: rgb(255, 196, 0);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    height: 10vh;
+    position: sticky;
+    top: 0;
+}
+header > h1{
+    padding-top: 12px;
+    padding-left: 50px;
+    color: white;
+    font-weight: 500;
+}

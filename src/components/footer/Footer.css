@@ -1,0 +1,11 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: rgb(255, 196, 0);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    margin-top: 71.6vh;
+    position: sticky;
+    z-index: 1000;
+    bottom: 0;
+}

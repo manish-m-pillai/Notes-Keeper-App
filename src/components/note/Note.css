@@ -1,0 +1,11 @@
+.note-div{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 50px;
+    max-width: 300px;
+    text-align: center;
+}
